@@ -1,0 +1,14 @@
+{
+  "name": "grpc-dynamic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Reza",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.6",
+    "grpc": "^1.24.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
